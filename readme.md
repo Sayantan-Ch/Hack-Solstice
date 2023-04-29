@@ -7,26 +7,26 @@
 Contents
 ========
 
- * [Tech-Stacks](#Tech-Stacks)
- * [Our Services](#Our-Services)
+ * [Tech-Stacks Used](#Tech-Stacks-Used)
+ * [Features Added](#Features-Added)
  * [Competitive Advantage](#Competitive-Advantage)
  * [Snapshots](#Snapshots)
 
 
-### Tech-Stacks:
+### Tech-Stacks Used
 ---
 <ol>
 <li> HTML, CSS And JavaScript
 <li>Django 
 <br/>
-<li>Python, Tensorflow
+<li>Python
 <br/>
 <li>Machine Learning Models
 <br/>
 <li>Metaverse
 </ol>
 
-### Our-Features
+### Features Added
 ---
 <ol>
 <li>A chatbot which has been designed to answer all queries related to sexual health and hygiene. 
@@ -39,7 +39,7 @@ Contents
 </li></br>
 <li>Reading area where the top blogs related to sexual health and hygiene for LGBTQ+ on the internet are made visible. 
 </li></br>
-<li>"You Matter" Self-love booth. 
+<li>Self-love booth. 
 </li></br>
 </ol>
 
@@ -75,9 +75,13 @@ health - Pryde will be the first of its kind.
 --
 ![](https://res.cloudinary.com/divr26z8e/image/upload/v1679001362/Website_Launch_Gradient_With_Laptop_And_Phone_Mockup_Mobile_Video_Instagram_Post_Square_1_w1uzzk.gif)
 ![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764709/WhatsApp_Image_2023-04-10_at_6.09.18_PM_a5fs0p.jpg)
-![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764725/WhatsApp_Image_2023-04-10_at_6.09.16_PM_1_utmjry.jpg)
-![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764727/WhatsApp_Image_2023-04-10_at_6.09.17_PM_1_kbvmqs.jpg)
 ![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764727/WhatsApp_Image_2023-04-10_at_6.09.16_PM_dfeeax.jpg)
+![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764727/WhatsApp_Image_2023-04-10_at_6.09.17_PM_1_kbvmqs.jpg)
+![](https://res.cloudinary.com/divr26z8e/image/upload/v1682765187/WhatsApp_Image_2023-04-10_at_6.09.17_PM_uxjirw.jpg)
+![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764725/WhatsApp_Image_2023-04-10_at_6.09.16_PM_1_utmjry.jpg)
+![](https://res.cloudinary.com/divr26z8e/image/upload/v1682765271/Pridescape___SIMMER.io_-_Google_Chrome_4_12_2023_10_29_30_AM_ir4whd.jpg)
+
+
 
 
 
