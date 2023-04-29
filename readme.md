@@ -19,7 +19,7 @@ Contents
 <li> HTML, CSS And JavaScript
 <li>Django 
 <br/>
-<li>Python
+<li>Python, Tensorflow
 <br/>
 <li>Machine Learning Models
 <br/>
@@ -39,7 +39,7 @@ Contents
 </li></br>
 <li>Reading area where the top blogs related to sexual health and hygiene for LGBTQ+ on the internet are made visible. 
 </li></br>
-<li>Self-love booth. 
+<li>"You Matter" Self-love booth. 
 </li></br>
 </ol>
 
