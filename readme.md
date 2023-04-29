@@ -4,7 +4,7 @@
 `Project-Pryde` Pryde is a progressive web application designed to reduce the risk of sexually transmitted infections and diseases within the LGBTQ+ community. The platform offers a chatbot that answers all queries related to sexual health and hygiene, a forum for people to discuss best practices, access to medical professionals, an interactive Unity3D enabled educational section with best practices, a reading area with top blogs on sexual health and hygiene, and a self-love booth. We have conducted extensive research to obtain information for the chatbot, which is powered by NLP, AI, and Google Cloud. We have also developed an AI-based profanity filter to ensure the forum remains a safe place to discuss ideas. The platform offers a medical space for doctors to address sexual health issues, and a medical store for users to purchase prescribed medications and tools of contraception. PrydeScape, developed using Unity3D technology, offers LGBTQ+ sex education. The platform is designed to provide a safe space for individuals to discuss their sexual health and get the best possible answers tailored to their experiences. Team DANG is proud of Pryde's accomplishments, as they have created a solution that adds multidimensional value that caters to society, people, sustainability, and business. Through Pryde, the team hopes to make a genuine change in society, cater to an underrepresented section of society, and ensure individuals live happy and healthy lives.
 
 
-Contents
+Content
 ========
  * [Inspiration](#Inspiration)
  * [What it does?](#What-it-does)
