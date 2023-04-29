@@ -74,7 +74,10 @@ health - Pryde will be the first of its kind.
 ### Snapshots
 --
 ![](https://res.cloudinary.com/divr26z8e/image/upload/v1679001362/Website_Launch_Gradient_With_Laptop_And_Phone_Mockup_Mobile_Video_Instagram_Post_Square_1_w1uzzk.gif)
-![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764113/Website_Launch_Gradient_With_Laptop_And_Phone_Mockup_Mobile_Video_Instagram_Post_Square_2_e2ngj9.gif)
+![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764709/WhatsApp_Image_2023-04-10_at_6.09.18_PM_a5fs0p.jpg)
+![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764725/WhatsApp_Image_2023-04-10_at_6.09.16_PM_1_utmjry.jpg)
+![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764727/WhatsApp_Image_2023-04-10_at_6.09.17_PM_1_kbvmqs.jpg)
+![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764727/WhatsApp_Image_2023-04-10_at_6.09.16_PM_dfeeax.jpg)
 
 
 
