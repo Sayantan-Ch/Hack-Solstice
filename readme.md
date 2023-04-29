@@ -13,7 +13,7 @@ Contents
  * [Snapshots](#Snapshots)
 
 
-### Tech-Stacks Used
+### Tech-Stacks:
 ---
 <ol>
 <li> HTML, CSS And JavaScript
@@ -26,7 +26,7 @@ Contents
 <li>Metaverse
 </ol>
 
-### Features Added
+### Our Features
 ---
 <ol>
 <li>A chatbot which has been designed to answer all queries related to sexual health and hygiene. 
