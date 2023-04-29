@@ -8,7 +8,7 @@ Contents
 ========
  * [Inspiration](#Inspiration)
  * [What it does?](#What-it-does)
- * [Feature Description](#Feature-Description)
+ * [Features Description](#Feature-Description)
  * [Why Pryde?](Why-Pryde)
  * [Tech-Stacks](#Tech-Stacks)
  * [Competitive Advantage](#Competitive-Advantage)
@@ -29,7 +29,7 @@ Pryde offers the following solutions:
 - Reading area where the top blogs related to sexual health and hygiene for LGBTQ+ on the internet are made visible.
 - Self-love booth.
 
-### Feature Description:
+### Features Description:
 #### THE PRYDE BOT: INTENSIVE RESEARCH AND A.I.
 The questions and answers which will be available will be obtained through extensive research that shall be done from books and the web. Finally, the bot will be powered with NLP, AI and Google Cloud.
 
@@ -55,7 +55,7 @@ We are utilising the powers of data, artificial intelligence and cloud making a 
 
 Pryde is a solution which adds multi-dimensional value which caters to the society (LGBTQ+ community by offering them access to inclusive sexual healthcare), people (doctors and medical professionals to be aware that there is a need of treating people based on their gender and their sexual history), sustainability (Pryde aims at creating a society where every individuality is celebrated) and business.
 
-### Tech-Stacks Used
+### Tech-Stacks
 ---
 <ol>
 <li> HTML, CSS And JavaScript
