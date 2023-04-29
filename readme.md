@@ -7,8 +7,8 @@
 Contents
 ========
 
- * [Tech-Stacks Used](#Tech-Stacks-Used)
- * [Features Added](#Features-Added)
+ * [Tech-Stacks](#Tech-Stacks)
+ * [Our-Features](#Our-Features)
  * [Competitive Advantage](#Competitive-Advantage)
  * [Snapshots](#Snapshots)
 
@@ -26,7 +26,7 @@ Contents
 <li>Metaverse
 </ol>
 
-### Our Features
+### Our-Features
 ---
 <ol>
 <li>A chatbot which has been designed to answer all queries related to sexual health and hygiene. 
