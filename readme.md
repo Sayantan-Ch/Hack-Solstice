@@ -6,6 +6,7 @@
 
 Content
 ========
+ * [Installation](#installation)
  * [Inspiration](#Inspiration)
  * [What it does?](#What-it-does)
  * [Features Description](#Feature-Description)
@@ -13,9 +14,20 @@ Content
  * [Tech-Stacks](#Tech-Stacks)
  * [Competitive Advantage](#Competitive-Advantage)
  * [Snapshots](#Snapshots)
+ * [Demo Link](#Live-Demo)
+ * [Demo Video](#Demo-Video)
  
  
+### Installation
+
+1. Clone the repository
+2. Open the Project Path where manage.py is present in python console. 
+3. Create a .env file where the subscription and API key need to go.
+4. Run `python manage.py makemigrations` then `python manage.py migrate`.
+5. In python console type, `python manage.py runserver`
+6. The website link should be displayed on the side. Copy it and paste in the web browser.
  
+
 ### Inspiration:
 With modern advancements, individuals have more freedom to live as they choose, and society has become more inclusive of different genders and sexual orientations. However, sexual health and hygiene practices have not kept up with these changes, and many LGBTQ+ individuals do not have access to medical professionals who specialize in their sexual health. Discussing sexual health is a sensitive topic, and individuals often avoid seeking medical advice, relying instead on generalized information from unreliable sources like Google searches. This can lead to incorrect or incomplete diagnoses. Additionally, there is a misconception that protection is unnecessary in same-gender sexual encounters, which can increase the risk of sexually transmitted diseases.
 
@@ -91,7 +103,7 @@ individuality is celebrated) and business.
 cater to an underrepresented section of the society and ensure
 that they're living their lives in a happy and beautiful manner.
 There have been attempts to cater to the mental health of LGBTQ+
-community which Team Blueberry Muffins acknowledges and hopes
+community which Team DANG acknowledges and hopes
 they would only succeed in the near future, however, for sexual
 health - Pryde will be the first of its kind.
 </li></br>
@@ -107,6 +119,12 @@ health - Pryde will be the first of its kind.
 ![](https://res.cloudinary.com/divr26z8e/image/upload/v1682765187/WhatsApp_Image_2023-04-10_at_6.09.17_PM_uxjirw.jpg)
 ![](https://res.cloudinary.com/divr26z8e/image/upload/v1682764725/WhatsApp_Image_2023-04-10_at_6.09.16_PM_1_utmjry.jpg)
 ![](https://res.cloudinary.com/divr26z8e/image/upload/v1682765271/Pridescape___SIMMER.io_-_Google_Chrome_4_12_2023_10_29_30_AM_ir4whd.jpg)
+
+### Demo Link
+https://pryde-ekbf57bcyq-uc.a.run.app/
+
+### Demo Video
+[![LIVE DEMO]](https://www.youtube.com/watch?v=zxcIGYQ03Dc)
 
 
 
